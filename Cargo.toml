@@ -1,0 +1,9 @@
+[package]
+name = "tdd-with-rust-workshop"
+version = "0.1.0"
+authors = ["dodadoa <dodadoa@Avas-Genesis.local>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
